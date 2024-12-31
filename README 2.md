@@ -51,3 +51,5 @@ Home Automation: To monitor the temperature in different rooms or spaces and aut
 Weather Stations: For monitoring environmental temperature.
 HVAC Systems: To control heating, ventilation, and air conditioning systems based on the ambient temperature.
 Industrial Monitoring: To monitor temperature in industrial processes where temperature control is crucial.
+Output ![Temp Monitoring System](https://github.com/user-attachments/assets/fa690b59-877e-4bbe-9a16-07d62f931367)
+
