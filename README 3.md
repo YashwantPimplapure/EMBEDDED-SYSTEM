@@ -53,3 +53,4 @@ Connect the microphone and test audio input.
 Integrate a speech recognition library or software that allows predefined command detection.
 Develop a mapping between recognized commands and control signals for external devices.
 Test the system with multiple users for reliability and noise tolerance.
+Output ![SPEECH REC](https://github.com/user-attachments/assets/1ae14bb4-447e-4f75-b011-f8031891bbf1)
