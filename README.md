@@ -39,3 +39,4 @@ Push Button: One side is connected to a digital input pin (e.g., Pin 2 on the Ar
 Temperature Sensor: Connect the VCC and GND pins of the temperature sensor to the 5V and ground pins of the Arduino, respectively. The Data pin of the temperature sensor goes to a designated input pin (e.g., Pin 7).
 
 LCD: If using an LCD with I2C, connect the SDA and SCL pins to the corresponding pins on the Arduino (A4 and A5 for Arduino Uno). If not using I2C, connect the data pins of the LCD directly to the Arduino digital pins.
+OUTPUT :![CODE](https://github.com/user-attachments/assets/178cf2a1-8103-4dd8-9882-bed924fedef2)
