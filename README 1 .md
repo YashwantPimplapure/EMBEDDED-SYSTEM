@@ -51,3 +51,5 @@ Connecting the Device:
 
 For a device like a light bulb or fan, one terminal of the device is connected to the NO pin of the relay, and the other terminal is connected to the main power source. The relay will act as a switch, controlling the flow of current to the device.
 Software (Arduino Sketch).
+Output ![Home Automation](https://github.com/user-attachments/assets/bdc3a47c-f777-451e-9dc0-eaf9e1280c9b)
+ 
